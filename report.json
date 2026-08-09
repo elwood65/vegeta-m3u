@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T10:36:18.964438+00:00",
+  "timestamp": "2026-08-09T10:51:43.960478+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -11,19 +11,19 @@
       "reason": "HTTP Error 404: Not Found"
     },
     {
-      "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
+      "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
       "ok": false,
-      "reason": "<urlopen error [WinError 10061] Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione>"
+      "reason": "Remote end closed connection without response"
     },
     {
-      "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
+      "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
       "ok": false,
-      "reason": "<urlopen error [WinError 10060] Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato>"
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
-  "total_channels": 576902,
-  "live_channels": 25091,
-  "vod_channels": 551811,
+  "total_channels": 490135,
+  "live_channels": 3137,
+  "vod_channels": 486998,
   "servers": [
     {
       "url": "http://0g7hljf4wx.sasa24.xyz:80/get.php?username=bcpcEG6kxX&password=kT2E2dz5qV&type=m3u",
@@ -32,20 +32,19 @@
     },
     {
       "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
-      "ok": true,
-      "playlist": "02-solmare_res_co_ro.m3u",
-      "channels": 301252
+      "ok": false,
+      "reason": "Remote end closed connection without response"
     },
     {
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "<urlopen error [WinError 10061] Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione>"
+      "ok": true,
+      "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
+      "channels": 214993
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": true,
-      "playlist": "04-anonymousxyz_worldsat_shop.m3u",
-      "channels": 176988
+      "ok": false,
+      "reason": "HTTP Error 403: Forbidden"
     },
     {
       "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
@@ -55,8 +54,9 @@
     },
     {
       "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
-      "ok": false,
-      "reason": "<urlopen error [WinError 10060] Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato>"
+      "ok": true,
+      "playlist": "06-creative03_ddns_net.m3u",
+      "channels": 176483
     },
     {
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
