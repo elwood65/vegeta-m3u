@@ -136,6 +136,18 @@ jobs:
 - Identificazione live: la riga URL contiene `.m3u8`. Tutto il resto (`.mp4`, `out.mp4`, ecc.) = VOD.
 - Nomi canali identici, niente dedup, separatori server `# ===== Server NN (host) =====` in entrambi i file.
 
+## Aggiornamento (filtro non-italiani + divisione LIVE/VOD)
+
+- Aggiunto filtro "non-italiano" applicato a **entrambi** i file finali:
+  - bandiera emoji ≠ 🇮🇹 nel nome o group-title → scarta
+  - parole-nazione a parola intera (`\b...\b`, es. ALBANIA, GERMANY, FRANCE) nel group-title → scarta
+  - prefisso codice paese nel nome (`[DE]`, `ES:`, `AL:`, `USA:`, `KURD`, ecc.) → scarta
+- Evita falsi positivi: "CHILE" dentro "MASCHILE" (usa word boundaries), "Pierfrancesco" (parole solo su group-title), "Europa" (evento, non paese), `[DVS]` (sorgente italiana).
+- **Divisione finale in due file, entrambi filtrati e rigenerati a ogni run:**
+  - `vegeta_italia.m3u` → solo canali LIVE (URL `.m3u8`), pubblicato su GitHub
+  - `vegeta_italia_vod.m3u` → tutto il resto (VOD, serie, film), oltre 100 MB → gitignore
+- `report.json` aggiunge `filtered_non_italian`, `filter_reasons`, `live_channels`, `vod_channels`.
+
 ## Rischio e mitigazioni
 
 | Rischio | Mitigazione |

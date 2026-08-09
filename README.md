@@ -10,15 +10,19 @@ e **aggiornato automaticamente ogni 24 ore** via GitHub Actions.
 
 | File | Descrizione |
 |---|---|
-| `vegeta_italia.m3u` | **Playlist finale (canali LIVE)** — questo è il file pubblicato su GitHub |
-| `vegeta_italia_full.m3u` | Playlist completa (live + VOD + altro) — **non** su GitHub (>100 MB) |
-| `playlists/NN-host.m3u` | Copia della playlist per singolo server (fallback locale) |
-| `report.json` | Esito del run: server vivi/morti, n° canali, timestamp |
+| `vegeta_italia.m3u` | **Playlist LIVE (soli canali `.m3u8`, solo Italia)** — pubblicata su GitHub |
+| `vegeta_italia_vod.m3u` | Playlist **VOD** (tutto il resto, solo Italia) — non pubblicata (oltre i 100 MB) |
+| `playlists/NN-host.m3u` | Copia della playlist per singolo server (fallback locale, non filtrata) |
+| `report.json` | Esito del run: server vivi/morti, n° canali, filtro, timestamp |
 
 I canali duplicati tra server **non vengono rimossi**: restano come fallback in caso
 di malfunzionamento di un server. I nomi dei canali sono identici alle sorgenti.
-Solo i file live (`*.m3u8`) finiscono in `vegeta_italia.m3u`; il file `full` resta
-escluso dal repo perché supera il limite GitHub di 100 MB per file.
+**Filtro non-Italia**: dai file finali vengono esclusi i canali marcati come sicuramente
+non-italiani — bandiere emoji diverse dalla 🇮🇹 nel nome o nel group-title, parole
+di nazione (ALBANIA, FRANCE, GERMANY...) nel group-title, o prefissi codice paese
+nel nome (`[DE]`, `ES:`, `FR:`...). Restano quindi solo i canali riconosciuti come
+italiani (o non marcati come esteri). Il file VOD resta escluso dal repo perché
+supera il limite GitHub di 100 MB per file.
 
 ## Uso locale
 
