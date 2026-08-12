@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T07:14:15.876051+00:00",
+  "timestamp": "2026-08-12T07:30:21.695905+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -11,9 +11,9 @@
       "reason": "HTTP Error 404: Not Found"
     }
   ],
-  "total_channels": 945107,
-  "live_channels": 11585,
-  "vod_channels": 933522,
+  "total_channels": 945153,
+  "live_channels": 11559,
+  "vod_channels": 933594,
   "filtered_non_italian": 23255,
   "filter_reasons": {
     "prefisso AL": 4,
@@ -153,19 +153,19 @@
       "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "02-solmare_res_co_ro.m3u",
-      "channels": 301192
+      "channels": 301285
     },
     {
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215057
+      "channels": 215059
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "04-anonymousxyz_worldsat_shop.m3u",
-      "channels": 176989
+      "channels": 176962
     },
     {
       "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
@@ -177,13 +177,13 @@
       "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
       "ok": true,
       "playlist": "06-creative03_ddns_net.m3u",
-      "channels": 176484
+      "channels": 176457
     },
     {
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "07-kuku2018_ddns_net.m3u",
-      "channels": 98821
+      "channels": 98826
     }
   ]
 }

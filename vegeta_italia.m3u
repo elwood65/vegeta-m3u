@@ -19156,6 +19156,8 @@ http://br4tgxawlnq.warstarlive.com:6923/live/Pv6VvEhT9d/agospap/53335.m3u8
 http://br4tgxawlnq.warstarlive.com:6923/live/Pv6VvEhT9d/agospap/53336.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[BASKET-A2] DINAMO SASSARI" tvg-logo="http://netfly.oldadventure.org:23000/images/1dee2e1eca37fb4818f27995d2863cac.jpg" group-title="🏀 BASKET ITALIA SERIE A2",[BASKET-A2] DINAMO SASSARI
 http://br4tgxawlnq.warstarlive.com:6923/live/Pv6VvEhT9d/agospap/53337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[REG] RTV 38" tvg-logo="" group-title="📡 REGIONALI",[REG] RTV 38
+http://br4tgxawlnq.warstarlive.com:6923/live/Pv6VvEhT9d/agospap/53352.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vetrina Primafila Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Sky_Primafila_2018.png" group-title="? PRIMAFILA",Vetrina Primafila Live
 http://185.53.90.182:24000/live/Pv6VvEhT9d/agospap/395166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Live 1 - Trailer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Sky_Primafila_2018.png" group-title="? PRIMAFILA",Primafila Live 1 - Trailer
@@ -19338,36 +19340,6 @@ http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518681.m3u8
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network • HD" tvg-logo="https://i.imgur.com/NvTWvK5.png" group-title="⭐️CULTURA",Food Network • HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canale 21 • Campania" tvg-logo="https://i.imgur.com/l3Ht3ni.jpeg" group-title="⭐️RADIO E TV LOCALI",Canale 21 • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleischia • Campania" tvg-logo="https://i.imgur.com/lrE5XQP.png" group-title="⭐️RADIO E TV LOCALI",Teleischia • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canale 8 • Campania" tvg-logo="https://i.imgur.com/IokdPy0.png" group-title="⭐️RADIO E TV LOCALI",Canale 8 • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telelaser • Campania" tvg-logo="https://i.imgur.com/ztGnjTU.jpeg" group-title="⭐️RADIO E TV LOCALI",Telelaser • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PromovideoTV • Campania" tvg-logo="https://i.imgur.com/8ppcwKM.jpeg" group-title="⭐️RADIO E TV LOCALI",PromovideoTV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stereo 5 TV • Campania" tvg-logo="https://i.imgur.com/Dwn95AC.jpeg" group-title="⭐️RADIO E TV LOCALI",Stereo 5 TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tv7 Benevento • Campania" tvg-logo="https://i.imgur.com/0VfZ9Ea.png" group-title="⭐️RADIO E TV LOCALI",Tv7 Benevento • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Italia2 TV • Campania" tvg-logo="https://i.imgur.com/Ecbgr0K.png" group-title="⭐️RADIO E TV LOCALI",Italia2 TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telefutura • Campania" tvg-logo="https://i.imgur.com/Ia4krAC.png" group-title="⭐️RADIO E TV LOCALI",Telefutura • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SET TV • Campania" tvg-logo="https://i.imgur.com/eJTnFHy.jpeg" group-title="⭐️RADIO E TV LOCALI",SET TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lira TV  • Salerno e Provincia Campania" tvg-logo="https://i.imgur.com/BFGjFYA.png" group-title="⭐️RADIO E TV LOCALI",Lira TV  • Salerno e Provincia Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minformo TV • Campania" tvg-logo="https://i.imgur.com/tFS6M9v.png" group-title="⭐️RADIO E TV LOCALI",Minformo TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss Italia TV • Campania" tvg-logo="https://i.imgur.com/WxL1uIJ.png" group-title="⭐️RADIO E TV LOCALI",Radio Kiss Kiss Italia TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio CRC TV • Campania" tvg-logo="https://i.imgur.com/OPCgrwJ.png" group-title="⭐️RADIO E TV LOCALI",Radio CRC TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nora TV • Campania" tvg-logo="https://i.imgur.com/0PEzyba.png" group-title="⭐️RADIO E TV LOCALI",Nora TV • Campania
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - MUDU´" tvg-logo="https://i.imgur.com/XuHixnw.png" group-title="⭐️TEMATICI",24/7 - MUDU´
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518663.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - PUCCI (ANDREA BACCAN)" tvg-logo="https://i.imgur.com/E4Hwkbx.png" group-title="⭐️TEMATICI",24/7 - PUCCI (ANDREA BACCAN)
@@ -20018,26 +19990,10 @@ http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518176.m3u8
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518175.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="⭐️TV ITALIA 2",Discovery Channel
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518174.m3u8
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time • HD" tvg-logo="https://i.imgur.com/a67tzya.png" group-title="⭐️DISCOVERY ITALIA",Real Time • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518173.m3u8
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="Dmax • HD" tvg-logo="https://i.imgur.com/RmczauH.png" group-title="⭐️DISCOVERY ITALIA",Dmax • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518172.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network • HD" tvg-logo="https://i.imgur.com/XQy9ZVA.png" group-title="⭐️DISCOVERY ITALIA",Food Network • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Tv" tvg-logo="" group-title="⭐️TV ITALIA 2",Warner Tv
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518170.m3u8
-#EXTINF:-1 tvg-id="NOVE.it" tvg-name="Nove • HD" tvg-logo="https://i.imgur.com/Zf9mklQ.png" group-title="⭐️DISCOVERY ITALIA",Nove • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518169.m3u8
-#EXTINF:-1 tvg-id="GIALLO.it" tvg-name="Giallo • HD" tvg-logo="https://i.imgur.com/oNcsOZm.png" group-title="⭐️DISCOVERY ITALIA",Giallo • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518168.m3u8
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV • HD" tvg-logo="https://i.imgur.com/4THbbST.png" group-title="⭐️DISCOVERY ITALIA",HGTV • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="⭐️TV ITALIA 2",Discovery Turbo HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518166.m3u8
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="Frisbee • HD" tvg-logo="https://i.imgur.com/g65KZ3V.png" group-title="⭐️DISCOVERY ITALIA",Frisbee • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518165.m3u8
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 • HD" tvg-logo="https://i.imgur.com/oBkvX6m.png" group-title="⭐️DISCOVERY ITALIA",K2 • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/518164.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY Primafila Extra Full HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b10Tv8RvLf2RmVK9zJ01ewSTVh.jpg" group-title="⭐️SKY PRIMAFILA",SKY Primafila Extra Full HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/517981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY PrimaFila Extra 2 Full HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="⭐️SKY PRIMAFILA",SKY PrimaFila Extra 2 Full HD
@@ -20730,8 +20686,6 @@ http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504838.m3u8
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504837.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecolore Salerno HD" tvg-logo="https://pbs.twimg.com/profile_images/806940731692748800/09GjZfdP_400x400.jpg" group-title="⭐️TV ITALIA 1",Telecolore Salerno HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504836.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend • HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/motortrendHd.png" group-title="⭐️DISCOVERY ITALIA",Motor Trend • HD
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504833.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV San Marino Sport HD" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="⭐️TV ITALIA 1",RTV San Marino Sport HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleCity - 7Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezQpi2hRwUlr60pUM9ySiLpFTcsiwxyPQwQ&s" group-title="⭐️TV ITALIA 1",TeleCity - 7Gold HD
@@ -20746,12 +20700,6 @@ http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504827.m3u8
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504826.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio TV Serie A con RDS" tvg-logo="https://m.media-amazon.com/images/I/61VZRi50b2L.png" group-title="⭐️TV ITALIA 1",Radio TV Serie A con RDS
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/504825.m3u8
-#EXTINF:-1 tvg-id="La 7 +1" tvg-name="La 7 ⁺¹" tvg-logo="https://i.imgur.com/zNttZmN.png" group-title="⭐️TV ITALIA +1",La 7 ⁺¹
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/477981.m3u8
-#EXTINF:-1 tvg-id="TV 8 +1" tvg-name="Tv 8 ⁺¹" tvg-logo="https://i.imgur.com/g8WJ2lD.png" group-title="⭐️TV ITALIA +1",Tv 8 ⁺¹
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/477980.m3u8
-#EXTINF:-1 tvg-id="Nove HD +1" tvg-name="Nove ⁺¹" tvg-logo="https://i.imgur.com/qCoIioO.png" group-title="⭐️TV ITALIA +1",Nove ⁺¹
-http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/477979.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TG Norba 24 • HD" tvg-logo="https://i.imgur.com/s2xViea.png" group-title="⭐️NEWS H24",TG Norba 24 • HD
 http://anonymousxyz.worldsat.shop:80/live/Vince/Vince/475768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alberto Sordi • Channel" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/picons/CanaliTematici/AlbertoSordi.png" group-title="⭐️TEM. In aggiornamento",Alberto Sordi • Channel
