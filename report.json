@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T07:30:21.695905+00:00",
+  "timestamp": "2026-08-13T07:41:18.254644+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -11,9 +11,9 @@
       "reason": "HTTP Error 404: Not Found"
     }
   ],
-  "total_channels": 945153,
+  "total_channels": 945251,
   "live_channels": 11559,
-  "vod_channels": 933594,
+  "vod_channels": 933692,
   "filtered_non_italian": 23255,
   "filter_reasons": {
     "prefisso AL": 4,
@@ -159,7 +159,7 @@
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215059
+      "channels": 215127
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
@@ -183,7 +183,7 @@
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "07-kuku2018_ddns_net.m3u",
-      "channels": 98826
+      "channels": 98856
     }
   ]
 }
