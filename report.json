@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T07:41:18.254644+00:00",
+  "timestamp": "2026-08-14T07:31:18.395840+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -11,9 +11,9 @@
       "reason": "HTTP Error 404: Not Found"
     }
   ],
-  "total_channels": 945251,
+  "total_channels": 945521,
   "live_channels": 11559,
-  "vod_channels": 933692,
+  "vod_channels": 933962,
   "filtered_non_italian": 23255,
   "filter_reasons": {
     "prefisso AL": 4,
@@ -153,13 +153,13 @@
       "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "02-solmare_res_co_ro.m3u",
-      "channels": 301285
+      "channels": 301402
     },
     {
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215127
+      "channels": 215146
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
@@ -183,7 +183,7 @@
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "07-kuku2018_ddns_net.m3u",
-      "channels": 98856
+      "channels": 98990
     }
   ]
 }

@@ -1,263 +1,7 @@
 #EXTM3U
 # ===== Server 01 (02-solmare_res_co_ro) =====
-#EXTINF:-1 tvg-id="" tvg-name="----+2 E +3 ORE INDIETRO---" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",----+2 E +3 ORE INDIETRO---
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",TV 8 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Crime HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Top Crime HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Crime HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Top Crime HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Tgcom 24 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Tgcom 24 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SkyTG 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",SkyTG 24 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SkyTG 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",SkyTG 24 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Uno HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Uno HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Uno HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Uno HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Tennis HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Tennis HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport MotoGP HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport MotoGP HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Max HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Max HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Golf HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Golf HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport F1 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport F1 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Basket HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Basket HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Basket HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Basket HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Arena HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Arena HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport 24 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport 24 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Serie HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Serie HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Serie HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Serie HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Nature HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Nature HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Investigation HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Investigation HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Documentaries HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Documentaries HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Crime HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Crime HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Crime HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Crime HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Uno HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Uno HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspance HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Suspance HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspance HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Suspance HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Romance HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Romance HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Family HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Family HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Drama HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Drama HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Comedy HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Comedy HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Collection HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Collection HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Action HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Action HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Atlantic HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Atlantic HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Arte HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Arte HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rete 4 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rete 4 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rete 4 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rete 4 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Time HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Real Time HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Time HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Real Time HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Sport HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Sport HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Premium HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Premium HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Premium HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Premium HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai News HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai News HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai News HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai News HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Movie HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Movie HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai Movie HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Movie HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 4 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 4 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 4 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 4 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 3 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 3 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 2 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 2 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 1 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 1 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nove HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Nove HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nove HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Nove HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",MTV HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",MTV HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Mediaset Extra HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 7 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 7 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 7 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 7 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La 5 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 5 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Italia 1 FHD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Italia 1 FHD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Iris HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Iris HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Iris HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Iris HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Giallo HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Giallo HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Giallo HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Giallo HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Food Network HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 2 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 2 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 1 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 1 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dmax HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Dmax HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Discovery HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Comedy Central HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Comedy Central HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine34 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cine34 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine34 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cine34 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cielo HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cielo HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Canale 5 HD +3
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Canale 5 HD +2
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="== DAZN AMICHEVOLI ==" tvg-logo="" group-title="AMICHEVOLI SERIE A",== DAZN AMICHEVOLI ==
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 01 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 01 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 02 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 02 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 03 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 03 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 04 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 04 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 05 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 05 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 06 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 06 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 07 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 07 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 08 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 08 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 09 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 09 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 10 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 10 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 11 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 11 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 12 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 12 HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 01 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 01 F HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 02 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 02 F HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 03 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 03 F HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2000 HEVC" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 HEVC
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2000 Full HD" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 Full HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2000 SD" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 SD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709347.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="---Top Italia---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🇮🇹 Top Italia",---Top Italia---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/272955.m3u8
-#EXTINF:-1 tvg-id="Rai 4K RAW" tvg-name="Rai 4K RAW" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai4kRaw.png" group-title="🇮🇹 Top Italia",Rai 4K RAW
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/406176.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/rai1raw.png" group-title="🇮🇹 Top Italia",Rai 1 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693437.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai1hevc.png" group-title="🇮🇹 Top Italia",RAI 1 HEVC
@@ -270,8 +14,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/436607.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402722.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/rai2raw.png" group-title="🇮🇹 Top Italia",Rai 2 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693438.m3u8
-#EXTINF:-1 tvg-id="Rai 2 4K" tvg-name="Rai 2 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai24k.png" group-title="🇮🇹 Top Italia",Rai 2 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440155.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 H265" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai2h265.png" group-title="🇮🇹 Top Italia",RAI 2 H265
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402719.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai2hd.png" group-title="🇮🇹 Top Italia",Rai 2 HD
@@ -282,8 +24,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402716.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402715.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/rai3raw.png" group-title="🇮🇹 Top Italia",Rai 3 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693439.m3u8
-#EXTINF:-1 tvg-id="Rai 3 4K" tvg-name="Rai 3 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai34k.png" group-title="🇮🇹 Top Italia",Rai 3 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440156.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 H265" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai3h265.png" group-title="🇮🇹 Top Italia",RAI 3 H265
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402712.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai3hd.png" group-title="🇮🇹 Top Italia",Rai 3 HD
@@ -294,8 +34,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402709.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402708.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/rete4raw.png" group-title="🇮🇹 Top Italia",Rete 4 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693440.m3u8
-#EXTINF:-1 tvg-id="Rete 4 4K" tvg-name="Rete 4 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rete44k.png" group-title="🇮🇹 Top Italia",Rete 4 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440157.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/rete4hevc.png" group-title="🇮🇹 Top Italia",Rete 4 HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402705.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rete4hd.png" group-title="🇮🇹 Top Italia",Rete 4 HD
@@ -306,8 +44,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402702.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402701.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/canale5raw.png" group-title="🇮🇹 Top Italia",Canale 5 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693441.m3u8
-#EXTINF:-1 tvg-id="Canale 5 4K" tvg-name="Canale 5 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/canale54k.png" group-title="🇮🇹 Top Italia",Canale 5 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440158.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/canale5hevc.png" group-title="🇮🇹 Top Italia",Canale 5 HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402698.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/canale5hd.png" group-title="🇮🇹 Top Italia",CANALE 5 HD
@@ -318,8 +54,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402695.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402694.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 RAW" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia26/italia1raw.png" group-title="🇮🇹 Top Italia",Italia 1 RAW
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/693442.m3u8
-#EXTINF:-1 tvg-id="Italia 1 FHD" tvg-name="ITALIA 1 4K HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/italia14k.png" group-title="🇮🇹 Top Italia",ITALIA 1 4K HEVC
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462322.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/italia1hevc.png" group-title="🇮🇹 Top Italia",ITALIA 1 HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402691.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/italia1hd.png" group-title="🇮🇹 Top Italia",ITALIA 1 HD
@@ -500,8 +234,12 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/406180.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402556.m3u8
 #EXTINF:-1 tvg-id="padre pio tv" tvg-name="Padre PIO Tv" tvg-logo="https://topita.logosmig.fyi/rossiQ/padrePio.png" group-title="🇮🇹 Top Italia",Padre PIO Tv
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 2000 HEVC" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 HEVC
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709350.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://topita.logosmig.fyi/rossiQ/tv2000.png" group-title="🇮🇹 Top Italia",TV2000
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 2000 SD" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 SD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709347.m3u8
 #EXTINF:-1 tvg-id="rai sport+ fhd" tvg-name="Rai Sport HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/raiSporthd.png" group-title="🇮🇹 Top Italia",Rai Sport HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402553.m3u8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RAI SPORT SD" tvg-logo="https://topita.logosmig.fyi/rossiQ/raiSportSd.png" group-title="🇮🇹 Top Italia",RAI SPORT SD
@@ -674,6 +412,218 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460377.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460376.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss Napoli" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia2022/radiokisskissnapoli.png" group-title="🇮🇹 Top Italia (HI-DEF)",Radio Kiss Kiss Napoli
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----+2 E +3 ORE INDIETRO---" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",----+2 E +3 ORE INDIETRO---
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",TV 8 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Top Crime HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Top Crime HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Tgcom 24 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Tgcom 24 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SkyTG 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",SkyTG 24 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SkyTG 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",SkyTG 24 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Uno HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Uno HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Uno HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Uno HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Tennis HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Tennis HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport MotoGP HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport MotoGP HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Max HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Max HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Golf HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Golf HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport F1 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport F1 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Basket HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Basket HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Basket HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Basket HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Arena HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport Arena HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport 24 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Sport 24 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Serie HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Serie HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Serie HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Serie HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Nature HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Nature HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Investigation HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Investigation HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Documentaries HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Documentaries HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Crime HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Crime HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Crime HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Crime HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Uno HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Uno HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspance HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Suspance HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspance HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Suspance HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Romance HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Romance HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Family HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Family HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Drama HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Drama HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Comedy HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Comedy HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Collection HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Collection HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Action HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Cinema Action HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Atlantic HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Atlantic HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Arte HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Sky Arte HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rete 4 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rete 4 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Time HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Real Time HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Time HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Real Time HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Sport HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Premium HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Premium HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai News HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai News HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai News HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai News HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Movie HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai Movie HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 4 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 4 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 3 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 3 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 2 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 2 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 1 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Rai 1 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nove HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Nove HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nove HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Nove HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",MTV HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",MTV HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Mediaset Extra HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La 7 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 7 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La 7 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 7 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La 5 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",La 5 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iris HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Iris HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iris HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Iris HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",History HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giallo HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Giallo HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giallo HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Giallo HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Food Network HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 2 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 2 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 1 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Eurosport 1 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dmax HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Dmax HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Discovery HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Comedy Central HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Comedy Central HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine34 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cine34 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine34 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cine34 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cielo HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Cielo HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Canale 5 HD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Canale 5 HD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--Grande Fratello--" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🎥 Grande Fratello",--Grande Fratello--
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/325342.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GRANDE FRATELLO Regia 1" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",GRANDE FRATELLO Regia 1
@@ -690,10 +640,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/434130.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/434131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Grande Fratello VIP +1" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",Grande Fratello VIP +1
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/434132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 1 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",Big Brother Albania 1 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/520819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 2 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",Big Brother Albania 2 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/520820.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="---RAKUTEN TV---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📺 Rakuten TV+ Live",---RAKUTEN TV---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/309844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azione - Rakuten TV" tvg-logo="https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY" group-title="📺 Rakuten TV+ Live",Azione - Rakuten TV
@@ -930,12 +876,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344307.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344305.m3u8
 #EXTINF:-1 tvg-id="Sky Cinema Suspense HD +1" tvg-name="Sky Cinema Suspence +1 HD" tvg-logo="https://logosmig.fyi/rossi/cinemaSuspence1HD.png" group-title="🎬 Sky Cinema (SAT)",Sky Cinema Suspence +1 HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="--- Sky Cinema RAW ---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🎥 Sky Cinema (4K)",--- Sky Cinema RAW ---
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649044.m3u8
-#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://logosmig.fyi/rossi/cinemaUnoHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Uno HD
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649097.m3u8
-#EXTINF:-1 tvg-id="Sky Cinema Uno +24" tvg-name="Sky Cinema Uno +24" tvg-logo="https://logosmig.fyi/rossi/cinemaUno24FHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Uno +24
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649764.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="---Sky Cinema Hermes---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🎞️ Sky Cinema (Hermes)",---Sky Cinema Hermes---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/273124.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno HEVC" tvg-logo="https://logosmig.fyi/rossi/cinemaUnoHEVC.png" group-title="🎞️ Sky Cinema (Hermes)",Sky Cinema Uno HEVC
@@ -1128,28 +1068,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549159.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/177622.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila Premiere HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafilapremiere.png" group-title="⭐ Primafila Premiere",Vetrina Sky Primafila Premiere HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/177623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="--SKY PRIMAFILA 4K--" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📺 Sky Primafila 4K",--SKY PRIMAFILA 4K--
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/274759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Primafila 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Vetrina Primafila 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 1 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 1 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 2 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 2 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 3 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 3 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 4 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 4 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 5 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 5 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 6 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 6 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 7 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 7 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 8 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 8 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 9 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 9 4k
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206857.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--- Tematici FOX ---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🦊 Tematici FOX Plus",--- Tematici FOX ---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549635.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Jason Bourne Channel" tvg-logo="https://i.postimg.cc/sXM0pJh6/Screenshot-65.png" group-title="🦊 Tematici FOX Plus",Fox - Jason Bourne Channel
@@ -1158,74 +1076,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549424.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Una Notte da Leoni Channel" tvg-logo="https://i.postimg.cc/FzMdbGTF/Screenshot-1.png" group-title="🦊 Tematici FOX Plus",Fox - Una Notte da Leoni Channel
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Venerdi 13   4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/venerdi13.png" group-title="🦊 Tematici FOX Plus",Fox - Venerdi 13   4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Una notte da leoni 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/unanottedaleoni.png" group-title="🦊 Tematici FOX Plus",Fox - Una notte da leoni 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Tremors  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/tremors.png" group-title="🦊 Tematici FOX Plus",Fox - Tremors  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Trasformers  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/transformers.png" group-title="🦊 Tematici FOX Plus",Fox - Trasformers  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - The Mask  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/themask.png" group-title="🦊 Tematici FOX Plus",Fox - The Mask  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Terminator  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/terminator.png" group-title="🦊 Tematici FOX Plus",Fox - Terminator  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Star Wars  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/starwars.png" group-title="🦊 Tematici FOX Plus",Fox - Star Wars  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Scuola di polizia 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/scuoladipolizia.png" group-title="🦊 Tematici FOX Plus",Fox - Scuola di polizia 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Scary Movie 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/scarymovie.png" group-title="🦊 Tematici FOX Plus",Fox - Scary Movie 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Ritorno al Futuro  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ritornoalfuturo.png" group-title="🦊 Tematici FOX Plus",Fox - Ritorno al Futuro  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Rambo 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/rambo.png" group-title="🦊 Tematici FOX Plus",Fox - Rambo 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Pirati dei Caraibi  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/piratideicraibi.png" group-title="🦊 Tematici FOX Plus",Fox - Pirati dei Caraibi  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Nightmare 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/nightmare.png" group-title="🦊 Tematici FOX Plus",Fox - Nightmare 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Mission Impossible  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/missionimpossible.png" group-title="🦊 Tematici FOX Plus",Fox - Mission Impossible  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Men in Black 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/meninblack.png" group-title="🦊 Tematici FOX Plus",Fox - Men in Black 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Matrix  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/matrix.png" group-title="🦊 Tematici FOX Plus",Fox - Matrix  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Mad Max  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/madmax.png" group-title="🦊 Tematici FOX Plus",Fox - Mad Max  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Lo Hobbit 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/lohobbit.png" group-title="🦊 Tematici FOX Plus",Fox - Lo Hobbit 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Le Cronache di Narnia 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/lecronachedinarnia.png" group-title="🦊 Tematici FOX Plus",Fox - Le Cronache di Narnia 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Jurassic World 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/jurassicworld.png" group-title="🦊 Tematici FOX Plus",Fox - Jurassic World 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Jurassic Park 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/jurassicpark.png" group-title="🦊 Tematici FOX Plus",Fox - Jurassic Park 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Ip Man  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ipman.png" group-title="🦊 Tematici FOX Plus",Fox - Ip Man  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Signore degli Anelli  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilsignoredeglianelli.png" group-title="🦊 Tematici FOX Plus",Fox - Il Signore degli Anelli  4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Re Scorpione 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilrescorpione.png" group-title="🦊 Tematici FOX Plus",Fox - Il Re Scorpione 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Padrino 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilpadrino.png" group-title="🦊 Tematici FOX Plus",Fox - Il Padrino 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - I Mercenari 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/imercenari.png" group-title="🦊 Tematici FOX Plus",Fox - I Mercenari 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Hunger Games 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/hungergames.png" group-title="🦊 Tematici FOX Plus",Fox - Hunger Games 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Final Destination 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/finaldestination.png" group-title="🦊 Tematici FOX Plus",Fox - Final Destination 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Fast and Furious 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/fastandfurious.png" group-title="🦊 Tematici FOX Plus",Fox - Fast and Furious 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Die Hard 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/diehard.png" group-title="🦊 Tematici FOX Plus",Fox - Die Hard 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Creed 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/creed.png" group-title="🦊 Tematici FOX Plus",Fox - Creed 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Blade Runner 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/bladerunner.png" group-title="🦊 Tematici FOX Plus",Fox - Blade Runner 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Batman 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/batman.png" group-title="🦊 Tematici FOX Plus",Fox - Batman 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox - Harry Potter 4K Channel" tvg-logo="https://i.postimg.cc/CK9KFmgb/Screenshot-1.png" group-title="🦊 Tematici FOX Plus",Fox - Harry Potter 4K Channel
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549364.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Mercoledì Channel" tvg-logo="https://i.postimg.cc/ZKMhfPtd/download-1.jpg" group-title="🦊 Tematici FOX Plus",Fox - Mercoledì Channel
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549351.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Il Capo dei Capi Channel" tvg-logo="https://i.postimg.cc/wvXVmfdg/download-1.jpg" group-title="🦊 Tematici FOX Plus",Fox - Il Capo dei Capi Channel
@@ -2262,8 +2112,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548102.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motorvision.tv" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportmotorvisiontv.png" group-title="⚽ Sky Sport (SAT)",Motorvision.tv
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARTITA STASERA 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportpartitastasera4k.png" group-title="⚽ Sky Sport (SAT)",PARTITA STASERA 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548088.m3u8
 #EXTINF:-1 tvg-id="AUTOMOTO TV" tvg-name="Plus TV Italia" tvg-logo="https://logosmig.fyi/rossi/sport/msmotors.png" group-title="⚽ Sky Sport (SAT)",Plus TV Italia
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Solo Calcio HEVC" tvg-logo="https://logosmig.fyi/rossi/sport/sportitaliaCalcio.png" group-title="⚽ Sky Sport (SAT)",Solo Calcio HEVC
@@ -2316,32 +2164,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548059.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT| Padel TIME TV" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/padeltimetv.png" group-title="⚽ Sky Sport (SAT)",IT| Padel TIME TV
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="--- Sky Sport (RAW / Power) ---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="⚽ Sky Sport (4K)",--- Sky Sport (RAW / Power) ---
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649778.m3u8
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://logosmig.fyi/rossi/sport/sport24FHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport 24
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649777.m3u8
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://logosmig.fyi/rossi/sport/sportUnoFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Uno
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649776.m3u8
-#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="Sky Sport Legend" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportlegendfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport Legend
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649775.m3u8
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://logosmig.fyi/rossi/sport/sportCalcioFHD+.png" group-title="⚽ Sky Sport (4K)",Sky Sport Calcio
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649774.m3u8
-#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportmixfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport Mix
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649773.m3u8
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max" tvg-logo="https://logosmig.fyi/rossi/sport/sportMaxFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Max
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649772.m3u8
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena" tvg-logo="https://logosmig.fyi/rossi/sport/sportArenaFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Arena
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649771.m3u8
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Golf" tvg-logo="https://logosmig.fyi/rossi/sport/sportGolfFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Golf
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649770.m3u8
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA" tvg-logo="https://logosmig.fyi/rossi/sport/sportNBAfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport NBA
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649769.m3u8
-#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://logosmig.fyi/rossi/sport/sportTennisFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Tennis
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649768.m3u8
-#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport F1
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649767.m3u8
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport MotoGP
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649766.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="-- Sky Sport Stel-DVS--" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="⚽ Sky Sport (Stel-DVS)",-- Sky Sport Stel-DVS--
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/273127.m3u8
 #EXTINF:-1 tvg-id="Sky Sport 24 FHD" tvg-name="Sky Sport 24 HEVC" tvg-logo="https://logosmig.fyi/rossi/sport/sport24HEVC.png" group-title="⚽ Sky Sport (Stel-DVS)",Sky Sport 24 HEVC
@@ -2446,8 +2268,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649429.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--- F1 LIVE SkyNet ---" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1skynet.png" group-title="🏎️ F1 LIVE",--- F1 LIVE SkyNet ---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 RAW 4K (Richiede 30 Mbps)" tvg-logo="https://logosmig.fyi/rossi/nuovi/f14k.png" group-title="🏎️ F1 LIVE",Sky Sport F1 RAW 4K (Richiede 30 Mbps)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699380.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HEVC" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1hevc.png" group-title="🏎️ F1 LIVE",Sky Sport F1 HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540826.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD (HERMES)" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1hd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 HD (HERMES)
@@ -2472,8 +2292,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540828.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--- F1 LIVE DVS ---" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1dvs.png" group-title="🏎️ F1 LIVE",--- F1 LIVE DVS ---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540832.m3u8
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 4K" tvg-logo="https://logosmig.fyi/rossi/nuovi/f14k.png" group-title="🏎️ F1 LIVE",Sky Sport F1 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540817.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HEVC" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1hevc.png" group-title="🏎️ F1 LIVE",Sky Sport F1 HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540816.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1hd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 HD
@@ -2534,8 +2352,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/638406.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/638404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="---MotoGP SAT---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🏍️ MOTO GP LIVE",---MotoGP SAT---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649564.m3u8
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Moto GP Satellite 4K RAW" tvg-logo="https://logosmig.fyi/rossi/nuovi/moto4k.png" group-title="🏍️ MOTO GP LIVE",Moto GP Satellite 4K RAW
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649562.m3u8
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP HEVC" tvg-logo="https://logosmig.fyi/rossi/nuovi/motohevc.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649782.m3u8
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP HD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motohd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP HD
@@ -2572,8 +2388,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540869.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540868.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--- MOTO GP LIVE DVS ---" tvg-logo="https://logosmig.fyi/rossi/nuovi/motodvs.png" group-title="🏍️ MOTO GP LIVE",--- MOTO GP LIVE DVS ---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540867.m3u8
-#EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP 4K" tvg-logo="https://logosmig.fyi/rossi/nuovi/moto4k.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540866.m3u8
 #EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP HEVC" tvg-logo="https://logosmig.fyi/rossi/nuovi/motohevc.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540865.m3u8
 #EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP HD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motohd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP HD
@@ -2864,6 +2678,38 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/258623.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/258625.m3u8
 #EXTINF:-1 tvg-id="SkySport257.it" tvg-name="SKY SPORT 257 HDR PLUS" tvg-logo="https://logosmig.fyi/blu/7sportFHD+.png" group-title="⚽ Sky Calcio (SkyNet+)",SKY SPORT 257 HDR PLUS
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/258627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="== DAZN AMICHEVOLI ==" tvg-logo="" group-title="AMICHEVOLI SERIE A",== DAZN AMICHEVOLI ==
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 01 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 01 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 02 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 02 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 03 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 03 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 04 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 04 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 05 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 05 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 06 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 06 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 07 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 07 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 08 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 08 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 09 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 09 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 10 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 10 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 11 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 11 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 12 HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 12 HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 01 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 01 F HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 02 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 02 F HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN AMICHEVOLI 03 F HD" tvg-logo="" group-title="AMICHEVOLI SERIE A",DAZN AMICHEVOLI 03 F HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709351.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="--- EUROPA LEAGUE KALI ---" tvg-logo="https://logosmig.fyi/europa.png" group-title="⚽ Europa League KALI",--- EUROPA LEAGUE KALI ---
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/547806.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROPA LEAGUE 1" tvg-logo="https://logosmig.fyi/europa.png" group-title="⚽ Europa League KALI",EUROPA LEAGUE 1
@@ -3206,8 +3052,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/390024.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699381.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VETRINA BUSINESS" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/vetrina.png" group-title="🍸Sky Sport Business SAT (Only Event)",VETRINA BUSINESS
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4K STELLINA" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/4kstellina.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT 4K STELLINA
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699383.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUSINESS 1 HD STELLINA" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/1hdstellina.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT BUSINESS 1 HD STELLINA
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699387.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUSINESS 1 HD QUALITY" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/1hdquality.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT BUSINESS 1 HD QUALITY
@@ -7156,52 +7000,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/638646.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/641293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleRama" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",TeleRama
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/550442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*======= Abruzzo =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Abruzzo =======*
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: ReteTvItalia (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: ReteTvItalia (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: TeleSirio (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: TeleSirio (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Super J HD (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Super J HD (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Tv 6 (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Tv 6 (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Linea n1 TV (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Radio Linea n1 TV (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rete TV Italia (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Rete TV Italia (Abruzzo)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*======= Basilicata =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Basilicata =======*
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: La Nuova TV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: La Nuova TV (Basilicata)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Carina TV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Carina TV (Basilicata)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 2 RTV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Canale 2 RTV (Basilicata)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Set TV Canale 669 (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Set TV Canale 669 (Basilicata)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*======= Calabria =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Calabria =======*
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Calabria Uno (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Calabria Uno (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: ReggioTV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: ReggioTV (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: L'altro Corriere TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: L'altro Corriere TV (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: LaC News24 (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: LaC News24 (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: RTC Telecalabria (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: RTC Telecalabria (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: VideoTouring Radio TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: VideoTouring Radio TV (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: TeleMIa (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: TeleMIa (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Esperia TV (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Mi Sposo TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Mi Sposo TV (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Telejonio (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Telejonio (Calabria)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*======= Campania =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Campania =======*
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT: TV1 CAMPANE" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: TV1 CAMPANE
@@ -7250,6 +7048,52 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651037.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651036.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT: Kiss Kiss TV (Campania)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Kiss Kiss TV (Campania)
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*======= Abruzzo =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Abruzzo =======*
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: ReteTvItalia (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: ReteTvItalia (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleSirio (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: TeleSirio (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super J HD (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Super J HD (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tv 6 (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Tv 6 (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Linea n1 TV (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Radio Linea n1 TV (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete TV Italia (Abruzzo)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Rete TV Italia (Abruzzo)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*======= Basilicata =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Basilicata =======*
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: La Nuova TV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: La Nuova TV (Basilicata)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Carina TV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Carina TV (Basilicata)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 2 RTV (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Canale 2 RTV (Basilicata)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Set TV Canale 669 (Basilicata)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Set TV Canale 669 (Basilicata)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*======= Calabria =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Calabria =======*
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Calabria Uno (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Calabria Uno (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: ReggioTV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: ReggioTV (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: L'altro Corriere TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: L'altro Corriere TV (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: LaC News24 (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: LaC News24 (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTC Telecalabria (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: RTC Telecalabria (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: VideoTouring Radio TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: VideoTouring Radio TV (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleMIa (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: TeleMIa (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Esperia TV (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mi Sposo TV (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Mi Sposo TV (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telejonio (Calabria)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: Telejonio (Calabria)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*======= Emilia Romagna =======*" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📡 Canali Regionali",*======= Emilia Romagna =======*
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/651034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT: È TV Rete7 Bologna (Emilia Romagna)" tvg-logo="https://miglior.miweb.cc/copertinenuove/canaliregionali/canaliregionali.png" group-title="📡 Canali Regionali",IT: È TV Rete7 Bologna (Emilia Romagna)
@@ -7734,8 +7578,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382953.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Lupin III Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Lupin III Channel
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Nature Discovery 4K (double audio)" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Nature Discovery 4K (double audio)
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382948.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barbapapa 1970 channel HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Barbapapa 1970 channel HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barbapapa 2018 channel HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Barbapapa 2018 channel HD
@@ -7746,8 +7588,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382943.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ghost Adventures-Cacciatori di fantasmi channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Ghost Adventures-Cacciatori di fantasmi channel
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="I Mercenari-The Expendables Channel 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",I Mercenari-The Expendables Channel 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I Mercenari-The Expendables Channel HEVC" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",I Mercenari-The Expendables Channel HEVC
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda Series Channel HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Kung Fu Panda Series Channel HD
@@ -7756,8 +7596,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382922.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382921.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Me-contro-Te Channel HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Me-contro-Te Channel HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pirati dei Caraibi Channel 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Pirati dei Caraibi Channel 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Scuola di Polizia Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Scuola di Polizia Channel
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Totò Channel HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Totò Channel HD
@@ -10434,8 +10272,6 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555867.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555866.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 5" tvg-logo="https://miglior.miweb.cc/copertinenuove/beinsport.png" group-title="🌍 Bein Sport Channel",TR: beIN Sports 5
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/beinsport.png" group-title="🌍 Bein Sport Channel",TR: beIN Sports 4K
-http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Haber" tvg-logo="https://miglior.miweb.cc/copertinenuove/beinsport.png" group-title="🌍 Bein Sport Channel",TR: beIN Sports Haber
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Max 1" tvg-logo="https://miglior.miweb.cc/copertinenuove/beinsport.png" group-title="🌍 Bein Sport Channel",TR: beIN Sports Max 1
@@ -10950,16 +10786,28 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/697888.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/697887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Carlos Sainz - On Board (Diretta)" tvg-logo="https://miglior.miweb.cc/copertinenuove/f1onboard2026/carlossainz.png" group-title="🏎️  F1 ONBOARD",Carlos Sainz - On Board (Diretta)
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/697886.m3u8
+#EXTINF:-1 tvg-id="Rai 4K RAW" tvg-name="Rai 4K RAW" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai4kRaw.png" group-title="🇮🇹 Top Italia",Rai 4K RAW
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/406176.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai1fhd.png" group-title="🇮🇹 Top Italia",Rai 1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402724.m3u8
+#EXTINF:-1 tvg-id="Rai 2 4K" tvg-name="Rai 2 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai24k.png" group-title="🇮🇹 Top Italia",Rai 2 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440155.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 Full HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai2fhd.png" group-title="🇮🇹 Top Italia",Rai 2 Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402718.m3u8
+#EXTINF:-1 tvg-id="Rai 3 4K" tvg-name="Rai 3 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai34k.png" group-title="🇮🇹 Top Italia",Rai 3 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440156.m3u8
 #EXTINF:-1 tvg-id="Rai 3 4K" tvg-name="Rai 3 Full HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/rai3fhd.png" group-title="🇮🇹 Top Italia",Rai 3 Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402711.m3u8
+#EXTINF:-1 tvg-id="Rete 4 4K" tvg-name="Rete 4 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/rete44k.png" group-title="🇮🇹 Top Italia",Rete 4 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440157.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 Full Hd" tvg-logo="https://topita.logosmig.fyi/rossiQ/rete4fhd.png" group-title="🇮🇹 Top Italia",Rete 4 Full Hd
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402704.m3u8
+#EXTINF:-1 tvg-id="Canale 5 4K" tvg-name="Canale 5 4K" tvg-logo="https://topita.logosmig.fyi/rossiQ/canale54k.png" group-title="🇮🇹 Top Italia",Canale 5 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/440158.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/canale5fhd.png" group-title="🇮🇹 Top Italia",CANALE 5 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402697.m3u8
+#EXTINF:-1 tvg-id="Italia 1 FHD" tvg-name="ITALIA 1 4K HEVC" tvg-logo="https://topita.logosmig.fyi/rossiQ/italia14k.png" group-title="🇮🇹 Top Italia",ITALIA 1 4K HEVC
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462322.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/italia1fhd.png" group-title="🇮🇹 Top Italia",ITALIA 1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402690.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-name="LA 7 FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/la7fhd.png" group-title="🇮🇹 Top Italia",LA 7 FHD
@@ -11010,6 +10858,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/402572.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462287.m3u8
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV Full HD" tvg-logo="https://topita.logosmig.fyi/rossiQ/hgtvFhd.png" group-title="🇮🇹 Top Italia",HGTV Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/406179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 2000 Full HD" tvg-logo="" group-title="🇮🇹 Top Italia",TV 2000 Full HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/709349.m3u8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RAI SPORT FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/raiSportFhd.png" group-title="🇮🇹 Top Italia",RAI SPORT FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462277.m3u8
 #EXTINF:-1 tvg-id="Explorer HD Channel" tvg-name="VIP Explorer FHD" tvg-logo="https://topita.logosmig.fyi/rossiQ/vipFhd.png" group-title="🇮🇹 Top Italia",VIP Explorer FHD
@@ -11074,6 +10924,14 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460396.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460393.m3u8
 #EXTINF:-1 tvg-id="MTV SD" tvg-name="MTV FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/topitalia2022/mtv.png" group-title="🇮🇹 Top Italia (HI-DEF)",MTV FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/460392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD +3" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Italia 1 FHD +3
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD +2" tvg-logo="" group-title="🇮🇹  Canali +2 e +3 ORE",Italia 1 FHD +2
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/711078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 1 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",Big Brother Albania 1 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/520819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 2 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/grandefratello2022/grandefratello.png" group-title="🎥 Grande Fratello",Big Brother Albania 2 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/520820.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno Full HD" tvg-logo="https://logosmig.fyi/rossi/cinemaUnoFHD.png" group-title="🎬 Sky Cinema (SAT)",Sky Cinema Uno Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344356.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 Full HD" tvg-logo="https://logosmig.fyi/rossi/cinemaDue24FHD.png" group-title="🎬 Sky Cinema (SAT)",Sky Cinema Uno +24 Full HD
@@ -11096,8 +10954,14 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344318.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344313.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense Full HD" tvg-logo="https://logosmig.fyi/rossi/cinemaSuspenceFHD.png" group-title="🎬 Sky Cinema (SAT)",Sky Cinema Suspense Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/344308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="--- Sky Cinema RAW ---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="🎥 Sky Cinema (4K)",--- Sky Cinema RAW ---
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649044.m3u8
 #EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno FHD" tvg-logo="https://logosmig.fyi/rossi/cinemaUnoFHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Uno FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649098.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://logosmig.fyi/rossi/cinemaUnoHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Uno HD
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649097.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Uno +24" tvg-name="Sky Cinema Uno +24" tvg-logo="https://logosmig.fyi/rossi/cinemaUno24FHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Uno +24
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649764.m3u8
 #EXTINF:-1 tvg-id="Sky Cinema Due" tvg-name="Sky Cinema Due FHD" tvg-logo="https://logosmig.fyi/rossi/cinemaDueFHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Due FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649095.m3u8
 #EXTINF:-1 tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://logosmig.fyi/rossi/cinemaComedyFHD.png" group-title="🎥 Sky Cinema (4K)",Sky Cinema Comedy FHD
@@ -11246,6 +11110,28 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/177639.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/177640.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 18 FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafilapremiere.png" group-title="⭐ Primafila Premiere",Sky Primafila Premiere 18 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/177641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="--SKY PRIMAFILA 4K--" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="📺 Sky Primafila 4K",--SKY PRIMAFILA 4K--
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/274759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Primafila 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Vetrina Primafila 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 1 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 1 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 2 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 2 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 3 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 4 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 4 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 5 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 5 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 6 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 6 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 7 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 7 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 8 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 9 4k" tvg-logo="https://miglior.miweb.cc/copertinenuove/skyprimafila2022/primafila4k.png" group-title="📺 Sky Primafila 4K",Primafila 9 4k
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/206857.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Indiana Jones Channel FHD" tvg-logo="https://i.postimg.cc/zfm62Cym/jones.jpg" group-title="🦊 Tematici FOX Plus",Fox - Indiana Jones Channel FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Avatar Channel  FHD" tvg-logo="https://i.postimg.cc/y83G1XR6/avatar.jpg" group-title="🦊 Tematici FOX Plus",Fox - Avatar Channel  FHD
@@ -11342,6 +11228,74 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549401.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Venerdi 13 FHD" tvg-logo="https://i.postimg.cc/zDcWW58j/Screenshot-60.png" group-title="🦊 Tematici FOX Plus",Fox - Venerdi 13 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Venerdi 13   4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/venerdi13.png" group-title="🦊 Tematici FOX Plus",Fox - Venerdi 13   4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Una notte da leoni 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/unanottedaleoni.png" group-title="🦊 Tematici FOX Plus",Fox - Una notte da leoni 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Tremors  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/tremors.png" group-title="🦊 Tematici FOX Plus",Fox - Tremors  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Trasformers  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/transformers.png" group-title="🦊 Tematici FOX Plus",Fox - Trasformers  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - The Mask  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/themask.png" group-title="🦊 Tematici FOX Plus",Fox - The Mask  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Terminator  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/terminator.png" group-title="🦊 Tematici FOX Plus",Fox - Terminator  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Star Wars  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/starwars.png" group-title="🦊 Tematici FOX Plus",Fox - Star Wars  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Scuola di polizia 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/scuoladipolizia.png" group-title="🦊 Tematici FOX Plus",Fox - Scuola di polizia 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Scary Movie 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/scarymovie.png" group-title="🦊 Tematici FOX Plus",Fox - Scary Movie 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Ritorno al Futuro  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ritornoalfuturo.png" group-title="🦊 Tematici FOX Plus",Fox - Ritorno al Futuro  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Rambo 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/rambo.png" group-title="🦊 Tematici FOX Plus",Fox - Rambo 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Pirati dei Caraibi  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/piratideicraibi.png" group-title="🦊 Tematici FOX Plus",Fox - Pirati dei Caraibi  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Nightmare 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/nightmare.png" group-title="🦊 Tematici FOX Plus",Fox - Nightmare 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Mission Impossible  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/missionimpossible.png" group-title="🦊 Tematici FOX Plus",Fox - Mission Impossible  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Men in Black 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/meninblack.png" group-title="🦊 Tematici FOX Plus",Fox - Men in Black 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Matrix  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/matrix.png" group-title="🦊 Tematici FOX Plus",Fox - Matrix  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Mad Max  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/madmax.png" group-title="🦊 Tematici FOX Plus",Fox - Mad Max  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Lo Hobbit 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/lohobbit.png" group-title="🦊 Tematici FOX Plus",Fox - Lo Hobbit 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Le Cronache di Narnia 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/lecronachedinarnia.png" group-title="🦊 Tematici FOX Plus",Fox - Le Cronache di Narnia 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Jurassic World 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/jurassicworld.png" group-title="🦊 Tematici FOX Plus",Fox - Jurassic World 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Jurassic Park 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/jurassicpark.png" group-title="🦊 Tematici FOX Plus",Fox - Jurassic Park 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Ip Man  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ipman.png" group-title="🦊 Tematici FOX Plus",Fox - Ip Man  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Signore degli Anelli  4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilsignoredeglianelli.png" group-title="🦊 Tematici FOX Plus",Fox - Il Signore degli Anelli  4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Re Scorpione 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilrescorpione.png" group-title="🦊 Tematici FOX Plus",Fox - Il Re Scorpione 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Il Padrino 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/ilpadrino.png" group-title="🦊 Tematici FOX Plus",Fox - Il Padrino 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - I Mercenari 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/imercenari.png" group-title="🦊 Tematici FOX Plus",Fox - I Mercenari 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Hunger Games 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/hungergames.png" group-title="🦊 Tematici FOX Plus",Fox - Hunger Games 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Final Destination 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/finaldestination.png" group-title="🦊 Tematici FOX Plus",Fox - Final Destination 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Fast and Furious 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/fastandfurious.png" group-title="🦊 Tematici FOX Plus",Fox - Fast and Furious 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Die Hard 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/diehard.png" group-title="🦊 Tematici FOX Plus",Fox - Die Hard 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Creed 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/creed.png" group-title="🦊 Tematici FOX Plus",Fox - Creed 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Blade Runner 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/bladerunner.png" group-title="🦊 Tematici FOX Plus",Fox - Blade Runner 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Batman 4K Channel" tvg-logo="https://miglior.miweb.cc/copertinenuove/tematicifoxplus2/batman.png" group-title="🦊 Tematici FOX Plus",Fox - Batman 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox - Harry Potter 4K Channel" tvg-logo="https://i.postimg.cc/CK9KFmgb/Screenshot-1.png" group-title="🦊 Tematici FOX Plus",Fox - Harry Potter 4K Channel
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549364.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Horror Channel 5 FHD" tvg-logo="https://i.postimg.cc/mkstry2r/horror.jpg" group-title="🦊 Tematici FOX Plus",Fox - Horror Channel 5 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/549363.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox - Horror Channel 4 FHD" tvg-logo="https://i.postimg.cc/mkstry2r/horror.jpg" group-title="🦊 Tematici FOX Plus",Fox - Horror Channel 4 FHD
@@ -11702,12 +11656,40 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548097.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548117.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="⚽ Sky Sport (SAT)",Sky Sport F1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARTITA STASERA 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportpartitastasera4k.png" group-title="⚽ Sky Sport (SAT)",PARTITA STASERA 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548088.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network FHD" tvg-logo="https://logosmig.fyi/rossi/sport/wwe.png" group-title="⚽ Sky Sport (SAT)",WWE Network FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548087.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OnBoard Mix FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportonboardmixfhd.png" group-title="⚽ Sky Sport (SAT)",OnBoard Mix FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548085.m3u8
 #EXTINF:-1 tvg-id="Sky Aci Sport TV" tvg-name="ACI Sport TV FHD" tvg-logo="https://logosmig.fyi/rossi/sport/sportAci.png" group-title="⚽ Sky Sport (SAT)",ACI Sport TV FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/548076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="--- Sky Sport (RAW / Power) ---" tvg-logo="https://miglior.miweb.cc/copertinenuove/privatestreamlogo2.png" group-title="⚽ Sky Sport (4K)",--- Sky Sport (RAW / Power) ---
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649778.m3u8
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://logosmig.fyi/rossi/sport/sport24FHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport 24
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649777.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://logosmig.fyi/rossi/sport/sportUnoFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Uno
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649776.m3u8
+#EXTINF:-1 tvg-id="SkySportLegend.it" tvg-name="Sky Sport Legend" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportlegendfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport Legend
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649775.m3u8
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://logosmig.fyi/rossi/sport/sportCalcioFHD+.png" group-title="⚽ Sky Sport (4K)",Sky Sport Calcio
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649774.m3u8
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportsat25/skysportmixfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport Mix
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649773.m3u8
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max" tvg-logo="https://logosmig.fyi/rossi/sport/sportMaxFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Max
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649772.m3u8
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena" tvg-logo="https://logosmig.fyi/rossi/sport/sportArenaFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Arena
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649771.m3u8
+#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Golf" tvg-logo="https://logosmig.fyi/rossi/sport/sportGolfFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Golf
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649770.m3u8
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA" tvg-logo="https://logosmig.fyi/rossi/sport/sportNBAfhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport NBA
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649769.m3u8
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://logosmig.fyi/rossi/sport/sportTennisFHD.png" group-title="⚽ Sky Sport (4K)",Sky Sport Tennis
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649768.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport F1
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649767.m3u8
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="⚽ Sky Sport (4K)",Sky Sport MotoGP
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649766.m3u8
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="https://logosmig.fyi/rossi/sport/sport24FHD.png" group-title="⚽ Sky Sport (Stel-DVS)",Sky Sport 24 Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/272482.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Uno 4K" tvg-name="Sky Sport Uno Full HD" tvg-logo="https://logosmig.fyi/rossi/sport/sportUnoFHD.png" group-title="⚽ Sky Sport (Stel-DVS)",Sky Sport Uno Full HD
@@ -11750,12 +11732,16 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/265962.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/462981.m3u8
 #EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport F1 FHD (Q)" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD (Q)
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 RAW 4K (Richiede 30 Mbps)" tvg-logo="https://logosmig.fyi/rossi/nuovi/f14k.png" group-title="🏎️ F1 LIVE",Sky Sport F1 RAW 4K (Richiede 30 Mbps)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699380.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540825.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1 FHD (S)" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD (S)
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649425.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540830.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 4K" tvg-logo="https://logosmig.fyi/rossi/nuovi/f14k.png" group-title="🏎️ F1 LIVE",Sky Sport F1 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540817.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540815.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/f1fhd.png" group-title="🏎️ F1 LIVE",Sky Sport F1 FHD
@@ -11764,6 +11750,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540820.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/638405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Formula 1 TV (F1) (Events) (FHD)" tvg-logo="https://miglior.miweb.cc/copertinenuove/f1international.png" group-title="🏎️   F1 INTERNATIONAL",Formula 1 TV (F1) (Events) (FHD)
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/638403.m3u8
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Moto GP Satellite 4K RAW" tvg-logo="https://logosmig.fyi/rossi/nuovi/moto4k.png" group-title="🏍️ MOTO GP LIVE",Moto GP Satellite 4K RAW
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649562.m3u8
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/649781.m3u8
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP FHD
@@ -11774,6 +11762,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540875.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540881.m3u8
 #EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540870.m3u8
+#EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP 4K" tvg-logo="https://logosmig.fyi/rossi/nuovi/moto4k.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540866.m3u8
 #EXTINF:-1 tvg-id="Sky Sport MotoGp 4K" tvg-name="Sky Sport Moto GP FHD" tvg-logo="https://logosmig.fyi/rossi/nuovi/motofhd.png" group-title="🏍️ MOTO GP LIVE",Sky Sport Moto GP FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/540864.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Calcio  HD" tvg-name="Sky Sport Calcio FHD" tvg-logo="https://logosmig.fyi/blu/calcioFHD.png" group-title="⚽ Sky Calcio SAT",Sky Sport Calcio FHD
@@ -11926,6 +11916,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/8736.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/98.m3u8
 #EXTINF:-1 tvg-id="milan tv hd" tvg-name="Milan Channel Full HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/squadredicalcio2022/milan.png" group-title="⚽ Squadre Calcio",Milan Channel Full HD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/390025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4K STELLINA" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/4kstellina.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT 4K STELLINA
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699383.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUSINESS 1 FHD STELLINA" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/1fhdstellina.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT BUSINESS 1 FHD STELLINA
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/699385.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUSINESS 1 FHD QUALITY" tvg-logo="https://miglior.miweb.cc/copertinenuove/skysportbusiness/1fhdquality.png" group-title="🍸Sky Sport Business SAT (Only Event)",SKY SPORT BUSINESS 1 FHD QUALITY
@@ -12620,6 +12612,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382954.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382950.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Masha e Orso FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Masha e Orso FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Nature Discovery 4K (double audio)" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Nature Discovery 4K (double audio)
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382948.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Nature Explorer FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Nature Explorer FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382947.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Peppa Pig FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Eagle Peppa Pig FHD
@@ -12646,6 +12640,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382932.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jason Statham Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Jason Statham Channel FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I Mercenari-The Expendables Channel 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",I Mercenari-The Expendables Channel 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Indiana Jones Channel FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IP MAN Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",IP MAN Channel FHD
@@ -12662,6 +12658,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382920.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mission impossible Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Mission impossible Channel FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pirati dei Caraibi Channel 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Pirati dei Caraibi Channel 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pirati dei Caraibi Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Pirati dei Caraibi Channel FHD
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/382915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rambo Channel FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/eaglepictures2022/eaglepictures.png" group-title="🦅 Tematici Eagle Plus",Rambo Channel FHD
@@ -12690,6 +12688,8 @@ http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/205368.m3u8
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/556483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="(HK) Now Sports (EPL) UHD/4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/hknowsport.png" group-title="🌍 HK Now Sport",(HK) Now Sports (EPL) UHD/4K
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/556472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4K" tvg-logo="https://miglior.miweb.cc/copertinenuove/beinsport.png" group-title="🌍 Bein Sport Channel",TR: beIN Sports 4K
+http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/555864.m3u8
 #EXTINF:-1 tvg-id="natgeo.de" tvg-name="1000_QL80_.jpg" group-title="✰ ???????? KIDS ✰",AMA: Naruto" tvg-logo="https://m.media-amazon.com/images/I/91Bn7eoQYGL._AC_UF894,1000_QL80_.jpg" group-title="🇩🇪 KIDS",1000_QL80_.jpg" group-title="✰ ???????? KIDS ✰",AMA: Naruto
 http://solmare.res.co.ro:80/live/c6FX7mCgCf/q37trDY/664128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="g_center,h_65535,w_900/fl_keep_iptc.progressive,q_95/v1/24ce6207a8ec24326451b467ac9318f3/RR_logo_wordmark.jpg" group-title="✰ ???????? KIDS ✰",DE | Ranger Rob HD" tvg-logo="https://format-com-cld-res.cloudinary.com/image/private/s--K0e0d0OF--/c_limit,g_center,h_65535,w_900/fl_keep_iptc.progressive,q_95/v1/24ce6207a8ec24326451b467ac9318f3/RR_logo_wordmark.jpg" group-title="🇩🇪 KIDS",g_center,h_65535,w_900/fl_keep_iptc.progressive,q_95/v1/24ce6207a8ec24326451b467ac9318f3/RR_logo_wordmark.jpg" group-title="✰ ???????? KIDS ✰",DE | Ranger Rob HD
