@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T06:44:18.165888+00:00",
+  "timestamp": "2026-08-16T06:45:47.741425+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -11,10 +11,10 @@
       "reason": "HTTP Error 404: Not Found"
     }
   ],
-  "total_channels": 945419,
+  "total_channels": 945420,
   "live_channels": 11495,
-  "vod_channels": 933924,
-  "filtered_non_italian": 23255,
+  "vod_channels": 933925,
+  "filtered_non_italian": 23254,
   "filter_reasons": {
     "prefisso AL": 4,
     "prefisso ES": 8,
@@ -65,7 +65,7 @@
     "flag FI": 27,
     "flag GR": 127,
     "flag CY": 18,
-    "flag MT": 32,
+    "flag MT": 31,
     "flag IL": 100,
     "parola ISRAEL": 1,
     "flag BY": 11,
