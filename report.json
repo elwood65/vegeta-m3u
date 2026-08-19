@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T06:47:39.243510+00:00",
+  "timestamp": "2026-08-19T06:48:13.083429+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -16,9 +16,9 @@
       "reason": "[Errno 104] Connection reset by peer"
     }
   ],
-  "total_channels": 667270,
+  "total_channels": 667443,
   "live_channels": 3713,
-  "vod_channels": 663557,
+  "vod_channels": 663730,
   "filtered_non_italian": 443,
   "filter_reasons": {
     "flag BG": 71,
@@ -44,13 +44,13 @@
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215215
+      "channels": 215268
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "04-anonymousxyz_worldsat_shop.m3u",
-      "channels": 177082
+      "channels": 177142
     },
     {
       "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
@@ -62,7 +62,7 @@
       "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
       "ok": true,
       "playlist": "06-creative03_ddns_net.m3u",
-      "channels": 176577
+      "channels": 176637
     },
     {
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
