@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T06:43:54.026424+00:00",
+  "timestamp": "2026-08-23T06:44:54.977557+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
@@ -21,9 +21,9 @@
       "reason": "<urlopen error timed out>"
     }
   ],
-  "total_channels": 490730,
+  "total_channels": 490822,
   "live_channels": 2868,
-  "vod_channels": 487862,
+  "vod_channels": 487954,
   "filtered_non_italian": 447,
   "filter_reasons": {
     "flag BG": 71,
@@ -66,7 +66,7 @@
       "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
       "ok": true,
       "playlist": "06-creative03_ddns_net.m3u",
-      "channels": 176873
+      "channels": 176965
     },
     {
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
