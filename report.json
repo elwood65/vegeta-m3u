@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-25T06:53:20.549473+00:00",
+  "timestamp": "2026-08-26T06:55:03.534988+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
-  "ok_servers": 4,
+  "ok_servers": 5,
   "failed_servers": [
     {
       "url": "http://0g7hljf4wx.sasa24.xyz:80/get.php?username=bcpcEG6kxX&password=kT2E2dz5qV&type=m3u",
@@ -14,16 +14,11 @@
       "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
       "ok": false,
       "reason": "[Errno 104] Connection reset by peer"
-    },
-    {
-      "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "IncompleteRead(42462144 bytes read, 7092394 more expected)"
     }
   ],
-  "total_channels": 490973,
-  "live_channels": 2868,
-  "vod_channels": 488105,
+  "total_channels": 668582,
+  "live_channels": 4052,
+  "vod_channels": 664530,
   "filtered_non_italian": 447,
   "filter_reasons": {
     "flag BG": 71,
@@ -49,12 +44,13 @@
       "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215271
+      "channels": 215269
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "IncompleteRead(42462144 bytes read, 7092394 more expected)"
+      "ok": true,
+      "playlist": "04-anonymousxyz_worldsat_shop.m3u",
+      "channels": 177630
     },
     {
       "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
@@ -66,13 +62,13 @@
       "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
       "ok": true,
       "playlist": "06-creative03_ddns_net.m3u",
-      "channels": 177074
+      "channels": 177126
     },
     {
       "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
       "ok": true,
       "playlist": "07-kuku2018_ddns_net.m3u",
-      "channels": 99167
+      "channels": 99185
     }
   ]
 }
