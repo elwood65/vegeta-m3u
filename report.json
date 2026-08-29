@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-28T18:21:08.793640+00:00",
+  "timestamp": "2026-08-29T12:29:28.447781+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 60,
   "italian_servers": 7,
-  "ok_servers": 5,
+  "ok_servers": 4,
   "failed_servers": [
     {
       "url": "http://0g7hljf4wx.sasa24.xyz:80/get.php?username=bcpcEG6kxX&password=kT2E2dz5qV&type=m3u",
@@ -14,11 +14,16 @@
       "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
       "ok": false,
       "reason": "[Errno 104] Connection reset by peer"
+    },
+    {
+      "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
+      "ok": false,
+      "reason": "<urlopen error timed out>"
     }
   ],
-  "total_channels": 668844,
-  "live_channels": 4052,
-  "vod_channels": 664792,
+  "total_channels": 491206,
+  "live_channels": 2867,
+  "vod_channels": 488339,
   "filtered_non_italian": 447,
   "filter_reasons": {
     "flag BG": 71,
@@ -48,9 +53,8 @@
     },
     {
       "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": true,
-      "playlist": "04-anonymousxyz_worldsat_shop.m3u",
-      "channels": 177727
+      "ok": false,
+      "reason": "<urlopen error timed out>"
     },
     {
       "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
