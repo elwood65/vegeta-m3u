@@ -1,86 +1,86 @@
 {
-  "timestamp": "2026-09-02T10:52:00.798644+00:00",
+  "timestamp": "2026-09-03T10:51:09.010276+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
-  "total_servers_in_file": 60,
-  "italian_servers": 7,
-  "ok_servers": 2,
+  "total_servers_in_file": 55,
+  "italian_servers": 6,
+  "ok_servers": 4,
   "failed_servers": [
     {
-      "url": "http://0g7hljf4wx.sasa24.xyz:80/get.php?username=bcpcEG6kxX&password=kT2E2dz5qV&type=m3u",
+      "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
+      "ok": false,
+      "reason": "Remote end closed connection without response"
+    },
+    {
+      "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
       "ok": false,
       "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 520: <none>"
-    },
-    {
-      "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "<urlopen error timed out>"
-    },
-    {
-      "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
-      "ok": false,
-      "reason": "HTTP Error 512: "
-    },
-    {
-      "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "<urlopen error timed out>"
     }
   ],
-  "total_channels": 215216,
-  "live_channels": 1814,
-  "vod_channels": 213402,
-  "filtered_non_italian": 447,
+  "total_channels": 371481,
+  "live_channels": 7706,
+  "vod_channels": 363775,
+  "filtered_non_italian": 1842,
   "filter_reasons": {
-    "flag BG": 71,
+    "prefisso AL": 50,
+    "prefisso ARG": 1,
+    "prefisso BR": 41,
+    "prefisso DE": 293,
     "prefisso EX": 1,
-    "flag MT": 12,
-    "flag RU": 189,
-    "prefisso ID": 1,
-    "parola ENGLISH": 142,
-    "parola CZECH": 31
+    "prefisso FR": 4,
+    "prefisso IN": 3,
+    "prefisso PL": 12,
+    "prefisso PT": 77,
+    "prefisso RO": 1,
+    "prefisso RU": 5,
+    "prefisso SE": 69,
+    "prefisso UK": 28,
+    "prefisso AU": 8,
+    "prefisso ES": 105,
+    "parola FRANCE": 131,
+    "parola RUSSIA": 50,
+    "parola GRECIA": 118,
+    "parola BULGARIA": 37,
+    "parola ARGENTINA": 97,
+    "parola POLONIA": 139,
+    "parola ROMANIA": 133,
+    "parola ARABIA": 16,
+    "parola ALBANIA": 395,
+    "parola INDIANI": 28
   },
   "servers": [
     {
-      "url": "http://0g7hljf4wx.sasa24.xyz:80/get.php?username=bcpcEG6kxX&password=kT2E2dz5qV&type=m3u",
+      "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
+      "ok": false,
+      "reason": "Remote end closed connection without response"
+    },
+    {
+      "url": "http://103.240.148.251:80/get.php?username=86xKFsLQLe&password=S34dLU6JQA&type=m3u_plus&output=m3u8",
+      "ok": true,
+      "playlist": "02-103_240_148_251.m3u",
+      "channels": 110124
+    },
+    {
+      "url": "http://45.141.59.47:8080/get.php?username=mauroezio&password=eziomauro1&type=m3u_plus&output=m3u8",
+      "ok": true,
+      "playlist": "03-45_141_59_47.m3u",
+      "channels": 115530
+    },
+    {
+      "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
       "ok": false,
       "reason": "HTTP Error 404: Not Found"
     },
     {
-      "url": "http://solmare.res.co.ro:80/get.php?username=c6FX7mCgCf&password=q37trDY&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 520: <none>"
-    },
-    {
-      "url": "http://br4tgxawlnq.warstarlive.com:6923/get.php?username=Pv6VvEhT9d&password=agospap&type=m3u_plus&output=m3u8",
+      "url": "http://balfolan.ddns.net:8000/get.php?username=697pro&password=GdqhCDpZmn&type=m3u_plus&output=m3u8",
       "ok": true,
-      "playlist": "03-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 215666
+      "playlist": "05-balfolan_ddns_net.m3u",
+      "channels": 146085
     },
     {
-      "url": "http://anonymousxyz.worldsat.shop:80/get.php?username=vince&password=vince&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "<urlopen error timed out>"
-    },
-    {
-      "url": "http://j505h364u2f4o3e4s4v3.kb78i5yyw6.org:80/get.php?username=Fiorziimand2&password=X9ytyAUkQw&type=m3u_plus",
+      "url": "http://br4tgxawlnq.warstarlive.com:8880/get.php?username=Antonellototolive&password=Z3sS3gd9Xh&type=m3u_plus&output=m3u8",
       "ok": true,
-      "playlist": "05-j505h364u2f4o3e4s4v3_kb78i5yyw6_org.m3u",
-      "channels": 0
-    },
-    {
-      "url": "http://creative03.ddns.net:80/get.php?username=tvaip50&password=oTUjd6tH&type=m3u_plus",
-      "ok": false,
-      "reason": "HTTP Error 512: "
-    },
-    {
-      "url": "http://kuku2018.ddns.net:25461/get.php?username=danifonta01&password=rJ9G2kw8yF&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "<urlopen error timed out>"
+      "playlist": "06-br4tgxawlnq_warstarlive_com.m3u",
+      "channels": 1584
     }
   ]
 }
