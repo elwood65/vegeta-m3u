@@ -1,14 +1,24 @@
 {
-  "timestamp": "2026-09-05T10:08:15.750874+00:00",
+  "timestamp": "2026-09-06T10:28:16.511468+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
   "total_servers_in_file": 55,
   "italian_servers": 6,
-  "ok_servers": 3,
+  "ok_servers": 1,
   "failed_servers": [
     {
       "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
       "ok": false,
       "reason": "Remote end closed connection without response"
+    },
+    {
+      "url": "http://103.240.148.251:80/get.php?username=86xKFsLQLe&password=S34dLU6JQA&type=m3u_plus&output=m3u8",
+      "ok": false,
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "http://45.141.59.47:8080/get.php?username=mauroezio&password=eziomauro1&type=m3u_plus&output=m3u8",
+      "ok": false,
+      "reason": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
@@ -21,37 +31,11 @@
       "reason": "HTTP Error 404: Not Found"
     }
   ],
-  "total_channels": 225385,
-  "live_channels": 6539,
-  "vod_channels": 218846,
-  "filtered_non_italian": 1844,
-  "filter_reasons": {
-    "prefisso AL": 50,
-    "prefisso ARG": 1,
-    "prefisso BR": 41,
-    "prefisso DE": 295,
-    "prefisso EX": 1,
-    "prefisso FR": 4,
-    "prefisso IN": 3,
-    "prefisso PL": 12,
-    "prefisso PT": 77,
-    "prefisso RO": 1,
-    "prefisso RU": 5,
-    "prefisso SE": 69,
-    "prefisso UK": 28,
-    "prefisso AU": 8,
-    "prefisso ES": 105,
-    "parola FRANCE": 131,
-    "parola RUSSIA": 50,
-    "parola GRECIA": 118,
-    "parola BULGARIA": 37,
-    "parola ARGENTINA": 97,
-    "parola POLONIA": 139,
-    "parola ROMANIA": 133,
-    "parola ARABIA": 16,
-    "parola ALBANIA": 395,
-    "parola INDIANI": 28
-  },
+  "total_channels": 1584,
+  "live_channels": 1584,
+  "vod_channels": 0,
+  "filtered_non_italian": 0,
+  "filter_reasons": {},
   "servers": [
     {
       "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
@@ -60,15 +44,13 @@
     },
     {
       "url": "http://103.240.148.251:80/get.php?username=86xKFsLQLe&password=S34dLU6JQA&type=m3u_plus&output=m3u8",
-      "ok": true,
-      "playlist": "02-103_240_148_251.m3u",
-      "channels": 110167
+      "ok": false,
+      "reason": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://45.141.59.47:8080/get.php?username=mauroezio&password=eziomauro1&type=m3u_plus&output=m3u8",
-      "ok": true,
-      "playlist": "03-45_141_59_47.m3u",
-      "channels": 115478
+      "ok": false,
+      "reason": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
