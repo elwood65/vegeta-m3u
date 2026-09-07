@@ -1,72 +1,75 @@
 {
-  "timestamp": "2026-09-06T10:28:16.511468+00:00",
+  "timestamp": "2026-09-07T11:53:03.171293+00:00",
   "source": "http://vegetatv.duckdns.org/serveurs.txt",
-  "total_servers_in_file": 55,
+  "total_servers_in_file": 56,
   "italian_servers": 6,
-  "ok_servers": 1,
+  "ok_servers": 4,
   "failed_servers": [
     {
-      "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
+      "url": "http://www.nasadigitaltv.com/get.php?username=41N3U4N&password=ZQBWH6K&type=m3u_plus&output=m3u8",
       "ok": false,
-      "reason": "Remote end closed connection without response"
+      "reason": "timed out"
     },
     {
-      "url": "http://103.240.148.251:80/get.php?username=86xKFsLQLe&password=S34dLU6JQA&type=m3u_plus&output=m3u8",
+      "url": "http://freedom2.specialconnect.info/get.php?username=Eugenioeduardo&password=bS48guh7N1&type=m3u&output=ts",
       "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://45.141.59.47:8080/get.php?username=mauroezio&password=eziomauro1&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://balfolan.ddns.net:8000/get.php?username=697pro&password=GdqhCDpZmn&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
+      "reason": "HTTP Error 885: "
     }
   ],
-  "total_channels": 1584,
-  "live_channels": 1584,
-  "vod_channels": 0,
-  "filtered_non_italian": 0,
-  "filter_reasons": {},
+  "total_channels": 494615,
+  "live_channels": 1649,
+  "vod_channels": 492966,
+  "filtered_non_italian": 464,
+  "filter_reasons": {
+    "prefisso AL": 98,
+    "prefisso ARG": 2,
+    "prefisso BR": 2,
+    "prefisso DE": 125,
+    "prefisso EX": 2,
+    "prefisso FR": 8,
+    "prefisso IN": 6,
+    "prefisso PL": 24,
+    "prefisso PT": 2,
+    "prefisso RO": 2,
+    "prefisso RU": 10,
+    "prefisso SE": 2,
+    "prefisso UK": 56,
+    "parola CZECH": 125
+  },
   "servers": [
     {
-      "url": "http://00player99.selling-team.click:80/get.php?username=Luisa_sant&password=FQsUaJHCbf&type=m3u_plus&output=m3u8",
+      "url": "http://www.nasadigitaltv.com/get.php?username=41N3U4N&password=ZQBWH6K&type=m3u_plus&output=m3u8",
       "ok": false,
-      "reason": "Remote end closed connection without response"
+      "reason": "timed out"
     },
     {
-      "url": "http://103.240.148.251:80/get.php?username=86xKFsLQLe&password=S34dLU6JQA&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://45.141.59.47:8080/get.php?username=mauroezio&password=eziomauro1&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://arm-bes.xyz:80/get.php?username=23A434C95330240&password=gSuyhojrXU&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://balfolan.ddns.net:8000/get.php?username=697pro&password=GdqhCDpZmn&type=m3u_plus&output=m3u8",
-      "ok": false,
-      "reason": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "http://br4tgxawlnq.warstarlive.com:8880/get.php?username=Antonellototolive&password=Z3sS3gd9Xh&type=m3u_plus&output=m3u8",
+      "url": "http://dragone-2876.dyndns.biz/get.php?username=sKtKhEacZc&password=cvStT5n8u4&type=m3u_plus&output=m3u8",
       "ok": true,
-      "playlist": "06-br4tgxawlnq_warstarlive_com.m3u",
-      "channels": 1584
+      "playlist": "02-dragone-2876_dyndns_biz.m3u",
+      "channels": 110185
+    },
+    {
+      "url": "http://flsi-by38denb39.dnsabr.com/get.php?username=54tR9oezhK&password=V9BstnWNmg&type=m3u_plus&output=ts",
+      "ok": true,
+      "playlist": "03-flsi-by38denb39_dnsabr_com.m3u",
+      "channels": 263224
+    },
+    {
+      "url": "http://new.fullrock.co/get.php?username=corallini1&password=20092023&type=m3u_plus",
+      "ok": true,
+      "playlist": "04-new_fullrock_co.m3u",
+      "channels": 110186
+    },
+    {
+      "url": "http://freedom2.specialconnect.info/get.php?username=Eugenioeduardo&password=bS48guh7N1&type=m3u&output=ts",
+      "ok": false,
+      "reason": "HTTP Error 885: "
+    },
+    {
+      "url": "http://103.240.148.195/get.php?username=pepe163&password=180220g&type=m3u_plus",
+      "ok": true,
+      "playlist": "06-103_240_148_195.m3u",
+      "channels": 11484
     }
   ]
 }
